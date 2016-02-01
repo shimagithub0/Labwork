@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArduinoBluetooth</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_call">action_call</string>
+    <string name="title_activity_brushing">Brushing</string>
+    <string name="mokuhyou">100</string>
+
+
+</resources>

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/home"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="home"/>
+
+    <item
+        android:id="@+id/tooth"
+        android:icon="@drawable/tooth"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="tooth"/>
+
+    <item
+        android:id="@+id/book"
+        android:icon="@drawable/book"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="book"/>
+
+</menu>
